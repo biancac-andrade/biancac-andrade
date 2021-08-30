@@ -43,7 +43,7 @@
     
     ##
     
-    ![Snake animation](https://github.com/biancac-andrade/biancac-andrade/blob/output/github-contribution-grid-snake.svg)
+    <img src="https://github.com/biancac-andrade/biancac-andrade/blob/output/github-contribution-grid-snake.svg">
   
 <!---
 biancac-andrade/biancac-andrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
