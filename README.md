@@ -1,13 +1,13 @@
 ###  Oiee, eu sou a  Bianca Cristina 👋 
 
--  👨‍🎓 Formada em Engenharia da Computação
--  🛠 Estudando html, css, Javascript e Node.js
-- 👩‍💻 trabalho desenvolvendo chatbot em back end e front end
+- 👨‍🎓 Formada em Engenharia da Computação
+- 📕 Atualmente cursando Pós em Desenvolvimento Web Full Stack
+- 🛠 HTML, CSS, Javascript, Typescript, React, React Native, Testes Unitários, NodeJS
 - 📧 Contate - me no email: bc.andrade05@gmail.com
 - 🌈 Pronome: ela, dela
 - 🧾 Linkedin: https://www.linkedin.com/in/bcandrade/
-- 💬 Comunicação: Libras, portuguÊs, SI (Sinais Internacionais) e ASL ( American Sign Language)
-- 📲 Atualmente trabalhando em desenvolvedora Junior na Sinch
+- 💬 Comunicação: Libras, português, SI (Sinais Internacionais) e ASL ( American Sign Language)
+- 👔 Senioridade: Júnior
 
 <!-- <div>
     <a href="https://github.com/biancac-andrade">
