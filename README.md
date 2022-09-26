@@ -38,17 +38,16 @@
   <div>
     <a href="https://www.linkedin.com/in/bcandrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
     <a href="mailto:bc.andrade05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5519981944880" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-      
-      ![Snake animation](https://github.com/biancac-andrade/biancac-andrade/blob/output/github-contribution-grid-snake.svg)
-      
+    <a href="https://wa.me/5519981944880" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
+ </div>
+    
+<div align="center">
+
+  ![Snake animation](https://github.com/biancac-andrade/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
     
-   
-    
-    
-  
-<!---
-biancac-andrade/biancac-andrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
