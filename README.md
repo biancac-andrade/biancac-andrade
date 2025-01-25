@@ -1,7 +1,7 @@
 ###  Oiee, eu sou a  Bianca Cristina 👋 
 
 - 👨‍🎓 Formada em Engenharia da Computação
-- 📕 Atualmente cursando Pós em Desenvolvimento Web Full Stack
+- 📕 Formada em Pós em Desenvolvimento Web Full Stack
 - 🛠 HTML, CSS, Javascript, Typescript, React, React Native, Testes Unitários, NodeJS
 - 📧 Contate - me no email: bc.andrade05@gmail.com
 - 🌈 Pronome: ela, dela
