@@ -1,53 +1,71 @@
-###  Oiee, eu sou a  Bianca Cristina 👋 
-
-- 👨‍🎓 Formada em Engenharia da Computação
-- 📕 Formada em Pós em Desenvolvimento Web Full Stack
-- 🛠 HTML, CSS, Javascript, Typescript, React, React Native, Testes Unitários, NodeJS
-- 📧 Contate - me no email: bc.andrade05@gmail.com
-- 🌈 Pronome: ela, dela
-- 🧾 Linkedin: https://www.linkedin.com/in/bcandrade/
-- 💬 Comunicação: Libras, português, SI (Sinais Internacionais) e ASL ( American Sign Language)
-- 👔 Senioridade: Júnior
-
-<!-- <div>
-    <a href="https://github.com/biancac-andrade">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=biancac-andrade&show_icons=true&theme=radical)" />
-</div> -->
-  
-<div>
-    <a href="https://github.com/biancac-andrade">
-        <img height="180cm"
-            src="https://github-readme-stats.vercel.app/api?username=biancac-andrade&show_icons=true&theme=dracula&include_all_commit-true&count_private=true" />
-        <img height="180cm"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancac-andrade&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
-
-
-<div style="display: inline-block;"><br>
-    <img align="center" alt="Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-</div>
-  
-  ##
-  <div>
-    <a href="https://www.linkedin.com/in/bcandrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
-    <a href="mailto:bc.andrade05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5519981944880" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>   
- </div>
-    
 <div align="center">
+  <!-- Banner Animado Vetorial -->
+  <img src="./assets/banner.svg" alt="Bianca Andrade Banner" width="100%" />
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+  <br/><br/>
+
+  <!-- Links e Contatos Rápidos -->
+  <p>
+    <a href="https://www.linkedin.com/in/bcandrade/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:bc.andrade05@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://my-portifolio-zeta-two.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 </div>
-    
+
+---
+
+### 👩‍💻 Sobre Mim
+
+| Campo | Descrição |
+| :--- | :--- |
+| **🎓 Formação Acadêmica** | • Graduada em Engenharia da Computação<br/>• Pós-graduada em Desenvolvimento Web Full Stack<br/>• Pós-graduanda em Engenharia de Inteligência Artificial Aplicada |
+| **👔 Atuação** | Desenvolvedora Full Stack / Front-End |
+| **💬 Comunicação & Acessibilidade** | Fluente em Libras • Português • SI (Sinais Internacionais) • ASL • Inglês Técnico |
+| **🌈 Pronomes** | Ela / Dela |
+
+---
+
+### 🛠️ Stack & Tecnologias
+
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/duribeiro">Eduardo Ribeiro</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,tailwind,nodejs,supabase,docker,jest,cypress,git&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+### 🕹️ Atividade de Commits (Pacman Mode)
+
+<div align="center">
+  <!-- Gerado pela action pacman.yml na branch output -->
+  <img src="https://raw.githubusercontent.com/biancac-andrade/biancac-andrade/output/github-contribution-grid-snake-dark.svg" alt="Pacman devorando commits" width="100%" />
+</div>
+
+---
+
+### 🌌 Mapa Isométrico 3D (Skyline)
+
+<div align="center">
+  <!-- Gerado pela action profile-3d.yml na pasta profile-3d-contrib -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib Night Rainbow" width="90%" />
+</div>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=biancac-andrade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancac-andrade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Construído com Next.js, TypeScript e automações via GitHub Actions.</sub>
 </div>
