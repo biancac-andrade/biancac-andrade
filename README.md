@@ -48,6 +48,8 @@
     alt="Mapa de commits no GitHub — visão 3D do último ano"
     width="100%"
   />
+  <br/>
+  <sub>As linguagens no canto do mapa vêm só dos <strong>commits do último ano</strong>, pela linguagem principal de cada repo — não de todo o seu histórico.</sub>
 </div>
 
 ---
@@ -56,7 +58,7 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=biancac-andrade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancac-andrade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancac-andrade&layout=donut&langs_count=8&exclude_repo=biancac-andrade&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&custom_title=Linguagens%20nos%20reposit%C3%B3rios" alt="Linguagens usadas nos repositórios" />
 </div>
 
 <br/>
