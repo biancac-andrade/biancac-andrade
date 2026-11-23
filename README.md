@@ -39,13 +39,13 @@
 
 ---
 
-### 📈 Atividade no GitHub
+### 📈 Atividade mensal
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=biancac-andrade&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=6366f1&line=82aaff&point=c3e88d"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=biancac-andrade&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=6366f1&line=82aaff&point=c3e88d&title_color=c0caf5&days=30&custom_title=Últimos%2030%20dias"
     width="100%"
-    alt="Gráfico de atividade de commits no GitHub"
+    alt="Gráfico diário de contribuições nos últimos 30 dias"
   />
 </div>
 
