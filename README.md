@@ -54,8 +54,9 @@
 ### 🏆 Conquistas
 
 <div align="center">
+  <!-- github-profile-trophy.vercel.app está com deploy desabilitado (402); espelho ativo -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=biancac-andrade&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7"
+    src="https://github-profile-trophy-sigma-five.vercel.app/?username=biancac-andrade&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7"
     alt="Troféus e conquistas da conta no GitHub"
   />
 </div>
