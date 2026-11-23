@@ -1,3 +1,6 @@
+# Arquivo guardado — não roda no GitHub Actions.
+# Para reativar: mova para .github/workflows/profile-3d.yml
+
 name: GitHub-Profile-3D-Contrib
 
 on:

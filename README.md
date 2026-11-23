@@ -39,17 +39,25 @@
 
 ---
 
-### 🌌 Mapa de commits
+### 📈 Atividade no GitHub
 
 <div align="center">
-  <!-- Gerado por profile-3d.yml → branch output-3d (tema Tokyo Night) -->
   <img
-    src="https://raw.githubusercontent.com/biancac-andrade/biancac-andrade/output-3d/skyline-tokyonight.svg"
-    alt="Mapa de commits no GitHub — visão 3D do último ano"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=biancac-andrade&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117&color=6366f1&line=82aaff&point=c3e88d"
     width="100%"
+    alt="Gráfico de atividade de commits no GitHub"
   />
-  <br/>
-  <sub>As linguagens no canto do mapa vêm só dos <strong>commits do último ano</strong>, pela linguagem principal de cada repo — não de todo o seu histórico.</sub>
+</div>
+
+---
+
+### 🏆 Conquistas
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=biancac-andrade&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7"
+    alt="Troféus e conquistas da conta no GitHub"
+  />
 </div>
 
 ---
