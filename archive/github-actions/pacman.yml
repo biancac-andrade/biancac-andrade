@@ -1,3 +1,6 @@
+# Arquivo guardado — não roda no GitHub Actions.
+# Para reativar: mova para .github/workflows/pacman.yml
+
 name: Generate Pacman Animation
 
 on:

@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - .github/workflows/profile-3d.yml
+      - conf/github-profile-3d-contrib.json
 
 permissions:
   contents: write
@@ -20,10 +21,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: biancac-andrade
-      - name: Commit & Push changes
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "chore: update 3d contribution map" || exit 0
-          git push
+          SETTING_JSON: conf/github-profile-3d-contrib.json
+      - name: Publicar skyline na branch output-3d
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

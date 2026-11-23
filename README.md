@@ -39,20 +39,15 @@
 
 ---
 
-### 🕹️ Atividade de Commits (Pacman Mode)
+### 🌌 Mapa de commits
 
 <div align="center">
-  <!-- Gerado pela action pacman.yml na branch output -->
-  <img src="https://raw.githubusercontent.com/biancac-andrade/biancac-andrade/output/github-contribution-grid-snake-dark.svg" alt="Pacman devorando commits" width="100%" />
-</div>
-
----
-
-### 🌌 Mapa Isométrico 3D (Skyline)
-
-<div align="center">
-  <!-- Gerado pela action profile-3d.yml na pasta profile-3d-contrib -->
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib Night Rainbow" width="90%" />
+  <!-- Gerado por profile-3d.yml → branch output-3d (tema Tokyo Night) -->
+  <img
+    src="https://raw.githubusercontent.com/biancac-andrade/biancac-andrade/output-3d/skyline-tokyonight.svg"
+    alt="Mapa de commits no GitHub — visão 3D do último ano"
+    width="100%"
+  />
 </div>
 
 ---

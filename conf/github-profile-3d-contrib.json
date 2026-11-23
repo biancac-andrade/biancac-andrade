@@ -1,0 +1,16 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "skyline-tokyonight.svg",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#c0caf5",
+    "strongColor": "#7aa2f7",
+    "weakColor": "#565f89",
+    "radarColor": "#bb9af7",
+    "growingAnimation": true,
+    "saturation": "70%",
+    "contribLightness": ["18%", "30%", "38%", "46%", "56%"],
+    "duration": "14s",
+    "hueRatio": 5
+  }
+]
