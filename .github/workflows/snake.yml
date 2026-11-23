@@ -1,8 +1,7 @@
 name: Generate Datas
 
+# Desativado: o pacman.yml gera o snake dark na branch output.
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
